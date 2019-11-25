@@ -1,2 +1,2 @@
 # grid
-MY CSS CUSTOM GRID SYSTEM
+Structure your web pages with crispy css
