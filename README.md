@@ -31,7 +31,7 @@ To use Crispy CSS follow the cheat sheet below.
 | flex-direction  |              fd-row-reverse <br/> fd-row-reverse <br/> fd-column <br/> fd-column-reverse |
 | flex-wrap       |                                                     wrap <br/> no-wrap <br> wrap-reverse |
 | align-items     |                 ai-start <br/> ai-end <br/> ai-center <br/> ai-baseline <br/> ai-stretch |
-| align-content   |   ac-start <br/> ac-end <br/> ac-center <br/> ac-between <br/> ac-around <br> ac-stretch |
+| align-content   |    ac-start <br/> ac-end <br/> ac-center <br/> ac-between <br/> ac-around <br>ac-stretch |
 | align-self      |                 as-start <br/> as-end <br/> as-center <br/> as-baseline <br/> as-stretch |
 
 ##### Grid System
