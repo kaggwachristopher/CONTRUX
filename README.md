@@ -8,14 +8,14 @@ Crispy css is in a single css file can be used both offline and online.
 
 ##### Use offline version
 
-Use [this link](#) to download crispy.css.
+Use [this link](#) to download crispy.css or download this repository to use crispy css offline.
 
 ##### Use online version
 
 Simply copy and paste the line below to your HTML head tag.
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://" />
+<link rel="stylesheet" type="text/css" href="https://kaggwachristopher.github.io/crispy/crispy-min.css" />
 ```
 
 ## Usage
