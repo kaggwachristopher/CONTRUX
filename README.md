@@ -36,19 +36,19 @@ To use Crispy CSS follow the cheat sheet below.
 
 ##### Grid System
 
-Crispy css modifies the bootstrap grid system so a clear understanding of the bootstrap 12 columns rule is an addddvantage.
+Crispy css modifies the bootstrap grid system so a clear understanding of the bootstrap 12 columns rule is an advantage.
+
 |Bootstrap|Crispy|
 |:---------|-------:|
 |container|grid|
 |row|row|
 |col-lg-\<number of colums><br>col-lg-12<br>col-lg-5|lg-\<number of colums><br>lg-12<br>lg-5|
-
 |col-md-\<number of colums><br>col-md-12<br>md-5|md-\<number of colums><br>md-12<br>md-5|
 |col-sm-\<number of colums><br>col-sm-12<br>col-sm-5|sm-\<number of colums><br>sm-12<br>sm-5|
 |col-xs-\<number of colums><br>col-xs-12<br>col-xs-5|xs-\<number of colums><br>xs-12<br>xs-5|
 |col-md-offset-\<number of colums><br>col-md-12-offset-5|md-\<number of colums><br>md-12-offset-5|
-|col-xs-pull-\<number of colums><br>col-xs-pull-12<br>col-lg-5|lg-\<number of colums><br>xs-pull-12<br>lg-pull-5|
-|col-xs-push-\<number of colums><br/>col-lg-pull-5|xs-push-\<number of colums><br/>lg-push-5|
+|col-xs-pull-\<number of colums><br>col-xs-pull-12<br>col-lg-pull-5|lg-\<number of colums><br>xs-pull-12<br>lg-pull-5|
+|col-xs-push-\<number of colums><br/>col-lg-push-5|xs-push-\<number of colums><br/>lg-push-5|
 
 #### Others
 
