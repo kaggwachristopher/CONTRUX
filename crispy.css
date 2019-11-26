@@ -892,6 +892,10 @@ textarea {
 	-ms-flex-pack: distribute !important;
 	justify-content: space-around !important;
 }
+.jc-evenly {
+	-ms-flex-pack: distribute !important;
+	justify-content: space-evenly !important;
+}
 
 .ai-start {
 	-webkit-box-align: start !important;
@@ -1040,7 +1044,7 @@ textarea {
 	white-space: nowrap !important;
 }
 
-.text-truncate {
+.truncate {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
