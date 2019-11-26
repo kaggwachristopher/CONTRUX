@@ -1,3 +1,6 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
+
+
 # CRISPY CSS
 
 Crispy is an open source css framework built to get your webpages well structured as well as keep you in absolute control of your design. Crispy css provides you with just enough tools to enable you achieve any layout of your choice through the grid system and the flexbox model.
